@@ -1,2 +1,2 @@
 this is a new file 
-we are now at the miky branch  
+we are now at the main branch  
